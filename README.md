@@ -29,4 +29,4 @@ This Repository contains Dataset, Trained Model, Reports, Presentation, etc rela
 
 
 
-## Note: Star the Repository if someone clones it or forks it.
+## Note: Do Star the Repository if someone clones it or forks it.
