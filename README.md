@@ -17,3 +17,8 @@ This folder contains Reports, Presentation, Dataset, Trained Model, etc related 
     8. translated_data.txt        -->   This file contains the Translated words generated using Google Translation API.
 
     9. testing.py                 -->   This python file contains the code for visualizing model, data and also test the model over actual testing data.
+
+
+
+
+# Note: Star the Repository if someone clones it or uses it.
