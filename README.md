@@ -1,4 +1,6 @@
-## This folder contains Reports, Presentation, Dataset, Trained Model, etc related to the project. A brief description of various files present in this folder:
+# Sentiment-analysis-of-code-mixed-text
+
+This repo contains Reports, Presentation, Dataset, Trained Model, etc related to the project. A brief description of various files present in this folder:
 
     1. Project_Report.pdf         -->   It is a 50+ Page Report that describes the complete Project.
 
