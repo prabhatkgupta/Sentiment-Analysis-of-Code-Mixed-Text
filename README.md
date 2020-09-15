@@ -1,4 +1,4 @@
-This folder contains Reports, Presentation, Dataset, Trained Model, etc related to the project. A brief description of various files present in this folder:
+## This folder contains Reports, Presentation, Dataset, Trained Model, etc related to the project. A brief description of various files present in this folder:
 
     1. Project_Report.pdf         -->   It is a 50+ Page Report that describes the complete Project.
 
@@ -21,4 +21,4 @@ This folder contains Reports, Presentation, Dataset, Trained Model, etc related 
 
 
 
-# Note: Star the Repository if someone clones it or forks it.
+## Note: Star the Repository if someone clones it or forks it.
