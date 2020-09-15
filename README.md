@@ -21,4 +21,4 @@ This folder contains Reports, Presentation, Dataset, Trained Model, etc related 
 
 
 
-# Note: Star the Repository if someone clones it or uses it.
+# Note: Star the Repository if someone clones it or forks it.
