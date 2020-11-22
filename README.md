@@ -25,6 +25,8 @@ This Repository contains Dataset, Trained Model, Reports, Presentation, etc rela
     8. translated_data.txt        -->   This file contains the Translated words generated using Google Translation API.
 
     9. testing.py                 -->   This python file contains the code for visualizing model, data and also test the model over actual testing data.
+    
+    10. raw_data.txt              -->   This file contains the raw and untranslated Hinglish data on which the performance analysis is based on.
 
 
 
